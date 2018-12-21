@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TitleBarColor.iml" filepath="$PROJECT_DIR$/TitleBarColor.iml" />
       <module fileurl="file://$PROJECT_DIR$/scrollviewtest/scrollviewtest.iml" filepath="$PROJECT_DIR$/scrollviewtest/scrollviewtest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/titleBarColor.iml" filepath="$PROJECT_DIR$/titleBarColor.iml" />
     </modules>
   </component>
 </project>
